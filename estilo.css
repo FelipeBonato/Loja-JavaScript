@@ -1,0 +1,49 @@
+#cabecalho{
+    margin: 0 auto;
+    display:;
+}
+#logotipo{
+    text-align: center;
+    padding: 10px;
+}
+h2{
+    margin: 0;
+    padding: 0;
+}
+#imagem-carrinho{
+    text-align: end;
+    padding: 20px;
+}
+#carrinho{
+    margin: 0 auto;
+    text-align: end;
+    display: flex;
+    padding: 0 2%;
+    
+}
+#filtro{
+    text-align: center;
+}
+ #mySelect{
+    width: 400px;
+    margin: 0 auto;
+}
+
+#produtos{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+#produtos div{
+    border: 1px black solid;
+}
+
+#produtos  a#meu-carrinho{
+    padding: 2px;
+    text-decoration: none;
+    color: black;
+    border: 1px black solid;
+    
+}
